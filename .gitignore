@@ -328,3 +328,6 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+/Random Wallpaper/RandomWallpaper.ps1
+/Random Wallpaper/RandomPaper.ps1
+/Random Wallpaper/GenerateRandomImage.ps1
